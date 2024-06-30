@@ -42,4 +42,9 @@ npm run dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) No navegador abrir o endereço a cima
-
+**Integrantes do Grupo**
+```bash
+Catia Adão
+Miguel Domingos
+Phunga Aguinaldo
+```
