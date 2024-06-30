@@ -2,7 +2,7 @@
 # ISPMEDIA
 Uma web app de partilhade ficheiros multimedia
 =======
-
+Stack
 - Next.js
 - TypeScript
 - Convex
@@ -12,15 +12,17 @@ Uma web app de partilhade ficheiros multimedia
 - Tailwind CSS
 
 
-Install the project dependencies using npm:
+**Instalação**
+
+Instale as dependencias do node:
 
 ```bash
 npm install
 ```
 
-**Set Up Environment Variables**
+**Configurar variaveis ambiente**
 
-Create a new file named `.env` in the root of your project and add the following content:
+Criar um novo arquivo chamado `.env` na raiz do projeto e adicionar o seguinte conteúdo:
 
 ```env
 CONVEX_DEPLOYMENT=
@@ -31,13 +33,13 @@ NEXT_PUBLIC_CLERK_SIGN_IN_URL='/sign-in'
 NEXT_PUBLIC_CLERK_SIGN_UP_URL='/sign-up'
 ```
 
-Replace the placeholder values with your actual Convex & Clerk credentials. You can obtain these credentials by signing up on the [Convex](https://www.convex.dev/) and [Clerk](https://clerk.com/) websites.
+Adicionar os valores placeholder com  credenciais reais do Convex e Clerk. 
 
-**Running the Project**
+**Executando o projecto**
 
 ```bash
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) in your browser to view the project.
+Open [http://localhost:3000](http://localhost:3000) No navegador abrir o endereço a cima
 
